@@ -1,14 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *  * main-entry point for the program.
- *
- *   *
- *
- *    * Return:0 if no errors, return non zero if errors
- *
- *     */
+ * main- Entry
+ * Return: Always 0
+ */
 
 int main(void)
 
