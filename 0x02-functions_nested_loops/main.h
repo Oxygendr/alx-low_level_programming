@@ -1,5 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-int putchar(char a)
+int _putchar(char c)
 
 #endif
