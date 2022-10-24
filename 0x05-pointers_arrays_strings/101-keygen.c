@@ -4,9 +4,8 @@
 
 /**
  * main - generates random passwords for 101-crackme
- * Return: zero
+ * Return: 0
  */
-
 int main(void)
 {
 	int sum;
