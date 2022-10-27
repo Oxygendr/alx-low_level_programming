@@ -19,7 +19,6 @@ int main(void)
 		  p = &n;
 
 		    /*
-		     *
 		     *    * write your line of code here...
 		     *
 		     *       * Remember:
@@ -30,7 +29,7 @@ int main(void)
 		     *
 		     *                * - only one statement
 		     *
-		     *                   * - you are allowed to code in this line of code
+		     *                   * - you are not to code else than this code
 		     *
 		     */
 
@@ -41,5 +40,4 @@ int main(void)
 		      printf("a[2] = %d\n", a[2]);
 
 			return (0);
-
 }
