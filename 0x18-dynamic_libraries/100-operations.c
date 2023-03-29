@@ -1,59 +1,49 @@
 /**
- * add - function to add two integers
- * @a - first integer
- * @b - second integer
+ * add - addition
+ * @a: number
+ * @b: nuber
  * Return: result
  */
-
 int add(int a, int b)
 {
 	return (a + b);
 }
-
 /**
- * sub - function to subtract two integers
- * @a - first integer
- * @b - second integer
+ * sub - addition
+ * @a: number
+ * @b: nuber
  * Return: result
  */
-
 int sub(int a, int b)
 {
 	return (a - b);
 }
-
 /**
- * mul - function that multiplies two integers
- * @a - first integer
- * @b - second integer
- * Return - result
+ * mul - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
-
 int mul(int a, int b)
 {
 	return (a * b);
 }
-
 /**
- * div - function to divide two integers
- * @a - first integer
- * @b - second integer
+ * div - addition
+ * @a: number
+ * @b: nuber
  * Return: result
  */
-
 int div(int a, int b)
 {
 	return (a / b);
 }
-
-
 /**
- * mod - function to find the remainder of two numbers divided
- * @a - first integer
- * @b - second integer
- * Return - remainder
+ * mod - addition
+ * @a: number
+ * @b: nuber
+ * Return: result
  */
-
 int mod(int a, int b)
 {
 	return (a % b);
